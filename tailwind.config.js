@@ -9,6 +9,9 @@ module.exports = {
         'div1' : 'rgba(126, 134, 147, 0.1)',
         'ios' : 'rgba(0, 0, 0, 0.3)',
         'body' : 'rgba(35, 33, 59, 1)',
+        'green' : 'rgba(6, 186, 99, 1)',
+        'item-bg' : 'rgba(126, 134, 147, 0.2)',
+        
       }
     },
   },
